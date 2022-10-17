@@ -1,5 +1,7 @@
 [![Run unit tests](https://github.com/justinleung4732/ci-course/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/justinleung4732/ci-course/actions/workflows/unit-tests.yml)
 
+[![Run OS tests](https://github.com/justinleung4732/ci-course/actions/workflows/os-tests.yml/badge.svg)](https://github.com/justinleung4732/ci-course/actions/workflows/os-tests.yml)
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
