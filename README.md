@@ -2,6 +2,8 @@
 
 [![Run OS tests](https://github.com/justinleung4732/ci-course/actions/workflows/os-tests.yml/badge.svg)](https://github.com/justinleung4732/ci-course/actions/workflows/os-tests.yml)
 
+[![.github/workflows/coverage.yml](https://github.com/justinleung4732/ci-course/actions/workflows/coverage.yml/badge.svg)](https://github.com/justinleung4732/ci-course/actions/workflows/coverage.yml)
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
