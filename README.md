@@ -6,6 +6,9 @@
 
 [![BCH compliance](https://bettercodehub.com/edge/badge/justinleung4732/ci-course?branch=main)](https://bettercodehub.com/)
 
+[![Documentation Status](https://readthedocs.org/projects/ci-course-justin/badge/?version=latest)](https://ci-course-justin.readthedocs.io/en/latest/?badge=latest)
+
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
