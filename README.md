@@ -2,7 +2,9 @@
 
 [![Run OS tests](https://github.com/justinleung4732/ci-course/actions/workflows/os-tests.yml/badge.svg)](https://github.com/justinleung4732/ci-course/actions/workflows/os-tests.yml)
 
-[![.github/workflows/coverage.yml](https://github.com/justinleung4732/ci-course/actions/workflows/coverage.yml/badge.svg)](https://github.com/justinleung4732/ci-course/actions/workflows/coverage.yml)
+[![codecov](https://codecov.io/gh/justinleung4732/ci-course/branch/main/graph/badge.svg?token=POR7AY349T)](https://codecov.io/gh/justinleung4732/ci-course)
+
+[![BCH compliance](https://bettercodehub.com/edge/badge/justinleung4732/ci-course?branch=main)](https://bettercodehub.com/)
 
 # OxRSE Continuous Integration course
 
